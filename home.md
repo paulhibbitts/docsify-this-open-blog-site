@@ -30,7 +30,7 @@ Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius
 
   Another blog post preview with different content.  
 
-  [Read More](classic-modern-architecture/item.md ":class=navpill")
+  [Read More](classic-modern-architecture.md ":class=navpill")
     
   </div>
     <div class="card">
