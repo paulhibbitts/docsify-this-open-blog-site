@@ -9,7 +9,7 @@ Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius
 <div class="card-list">
   <div class="card">
 
-  [![Blog Post Image](images/unsplash-focus.jpg)](focus-and-blur.md)
+  [![Blog Post Image](focus-and-blur/unsplash-focus.jpg)](focus-and-blur.md)
 
   ## [Focus and Blur](focus-and-blur.md)
   
@@ -22,7 +22,7 @@ Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius
   </div>
   <div class="card">
 
-  [![Blog Post Image](images/unsplash-luca-bravo.jpg)](classic-modern-architecture.md)
+  [![Blog Post Image](classic-modern-architecture/unsplash-luca-bravo.jpg)](classic-modern-architecture.md)
 
   ## [Classic Modern Architecture](classic-modern-architecture.md)
 
@@ -35,7 +35,7 @@ Qui qui est capillos, faveas ordine, humum ruit apri volantes, est illi! Amplius
   </div>
     <div class="card">
 
-  [![Blog Post Image](images/unsplash-london-night.jpg)](london-at-night.md)
+  [![Blog Post Image](london-at-night/unsplash-london-night.jpg)](london-at-night.md)
 
   ## [London at Night](london-at-night.md)
 

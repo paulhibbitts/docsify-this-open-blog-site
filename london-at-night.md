@@ -1,4 +1,4 @@
-![City at night](unsplash-london-night.jpg ":class=header-tall-image-full-width")
+![City at night](london-at-night/unsplash-london-night.jpg ":class=header-tall-image-full-width")
 
 [←Home](home.md)
 
@@ -25,7 +25,7 @@ Quod rigent bis apertum naiadum quoque.
 
 ## Mergeret finitque tibi
 
-![](unsplash-xbrunel-johnson.jpg)
+![](london-at-night/unsplash-xbrunel-johnson.jpg)
 
 Et divino et confesso linquit agitata cur tempore novissima idcirco hanc primus
 ritus quae. **Fuit** facto cui nostris! Haec pudorem? Mugitibus negant in
