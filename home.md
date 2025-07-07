@@ -1,4 +1,4 @@
-![Mountain](images/mountain.jpg ":class=header-tall-image-full-width")
+![Mountain](images/mountain.jpg ":class=header-tall-image-full-width :no-zoom")
 
 # My Open Blog
 
